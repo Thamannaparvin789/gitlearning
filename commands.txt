@@ -5,3 +5,6 @@
 > git init [to initialise once we create a folder]
 
 > git config --list [list details]
+
+>git add -A [add untracked files]
+
