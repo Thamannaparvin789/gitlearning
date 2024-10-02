@@ -2,3 +2,6 @@
 
 >git config --global user.email "useremail.com"
 
+> git init [to initialise once we create a folder]
+
+> git config --list [list details]
