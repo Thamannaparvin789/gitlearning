@@ -11,3 +11,5 @@
 > git commit -m "commit message"
 
 >git status  [list untracked files]
+
+> git log
