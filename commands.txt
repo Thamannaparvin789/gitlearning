@@ -9,3 +9,5 @@
 >git add -A [add untracked files]
 
 > git commit -m "commit message"
+
+>git status  [list untracked files]
