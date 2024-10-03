@@ -13,3 +13,8 @@
 >git status  [list untracked files]
 
 > git log
+
+to connect to remote repo
+git remote add remote_name remote_path  (remote path copied from remote repo)
+
+git push remote-name branch (git push orgin master)
